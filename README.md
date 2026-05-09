@@ -1,4 +1,4 @@
-# Senior Currency & Crypto Time Machine
+# Currency & Crypto Time Machine
 
 A high-performance currency converter and historical investment analysis tool. Built with a focus on modern UX, real-time data accuracy, and professional-grade state management.
 
